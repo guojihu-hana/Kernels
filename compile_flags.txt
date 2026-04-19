@@ -1,0 +1,4 @@
+-xcuda
+--cuda-path=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.6
+--cuda-gpu-arch=sm_86
+-std=c++14
